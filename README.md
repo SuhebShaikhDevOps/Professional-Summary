@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suheb Shaikh
+# Suheb Shaikh
 
 ### 🚀 Senior Cloud & Data Engineer | AWS | Azure | GCP | DevOps | Kubernetes | Snowflake
 
